@@ -1,3 +1,3 @@
-module github.com/santekno/belajar-golang-embed
+module github.com/santekno/learn-golang-embed
 
 go 1.20
